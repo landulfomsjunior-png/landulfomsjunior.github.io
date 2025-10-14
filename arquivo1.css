@@ -157,11 +157,11 @@ header h1{
 .ul{
  display: flex;
  position: 
- top: 80px;
- right: auto;
- left: 50%;
+ top: 
+ right: 
+ left:
  max-width: 90%;
- transform: translatex(-50%);
+ transform:
  padding: 2.5rem 3rem;
 }
 }
