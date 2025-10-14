@@ -137,7 +137,7 @@ nav ul li a{
 }
 @media(max-width: 600px){
 header h1{
- font-size: 1.25rem;
+ font-size: 0.8rem;
 }
 nav ul a{
  font-size: 0.1rem;
