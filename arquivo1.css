@@ -144,8 +144,12 @@ header{
  align-items: center;
 }
 header h1{
- font-size: 30px;
+ font-size: 1.8rem;
+ text-align: center;
 }
+ nav{
+  margin-top: 10px;
+ }
 .ul{
  position: absolute;
  top: 80px;
