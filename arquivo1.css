@@ -8,6 +8,7 @@ body{
  background: 
  background-size: cover;
  opacity: 0.95s;
+ over-flow-x: hidden;
 }
 header{
  background: #000;
