@@ -150,13 +150,4 @@ header h1{
  nav{
   margin-top: 10px;
  }
-.ul{
- position: absolute;
- top: 80px;
- right: auto;
- left: 50%;
- max-width: 90%;
- transform: translatex(-50%);
- padding: 2.5rem 3rem;
-}
 }
