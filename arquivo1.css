@@ -142,10 +142,6 @@ nav ul li a{
  color: #777;
 }
 @media(max-width: 600px){
-body{
- margin: 0;
- padding: 0;
-}
 header h1{
  font-size: 30px;
 }
@@ -160,9 +156,9 @@ header h1{
  top: 
  right: 
  left:
- max-width: 100%;
+ max-width: 
  transform:
- padding: 2.5rem 3rem;
+ padding:
 }
 }
 
