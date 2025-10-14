@@ -142,11 +142,11 @@ nav ul li a{
  color: #777;
 }
 @media(max-width: 600px){
-body{
- border-sizing: border-box;
-}
 header h1{
  font-size: 30px;
+}
+nav ul li{
+ display: inline;
 }
 .hero h2{
  font-size: 2.5rem;
