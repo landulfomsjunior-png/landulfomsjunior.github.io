@@ -1,16 +1,20 @@
-*{
- width: 100%;
- overflow-x: hidden;
+
+html,body{
  margin: 0;
  padding: 0;
- border-sizing: border-box;
-}
-body{
- font-family: Arial, sans-serif;
- background: 
- background-size:
+ overflow-x: hidden;
+ box-sizing: border-box;
+ font-family: Arial, sans-serif; 
  opacity: 0.95s;
- over-flow-x: hidden;
+}
+*.*::before, *::after{
+ box-sizing: inherit;
+}
+.hero, .cards, section, main{
+ width: 100%;
+ padding-left: 15px;
+ padding-right: 15px;
+ margin: 0 auto;
 }
 header{
  background: #000;
@@ -137,7 +141,20 @@ nav ul li a{
  font-size: 0.8rem;
  color: #777;
 }
-@media(max-width: 600px){
-
+@media(max-width: 768px){
+header, footer, .menu, .social-icons{
+ padding-left: 15px;
+ padding-right: 15px;
 }
-
+ .cards{
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+ }
+ h1, h2, h3, p, a {
+  font-size: 90%;
+  }
+ .hero{
+ padding: 20px 15px;
+}
+}
