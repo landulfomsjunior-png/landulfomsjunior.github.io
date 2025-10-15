@@ -137,7 +137,7 @@ nav ul li a{
  font-size: 0.8rem;
  color: #777;
 }
-@media(max-width: 600px){
+@media(max-width: 768px){
 .ul{
  position: absolute;
  top: 80px;
