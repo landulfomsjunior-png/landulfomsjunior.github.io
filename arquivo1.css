@@ -148,7 +148,8 @@ nav ul li a{
   flex-direction: column;.
   gap: 15px;
  }
- .footer-links a{
+ .footer-links{
+  display: flex;
   nargin: 10px;
  }
 }
