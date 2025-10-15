@@ -19,7 +19,7 @@ header{
 }
 header h1{
  color: #fff;
- font-size: 3rem;
+ font-size: 1.5rem;
  font-family: 'Quicksand', sans-serif;
  font-style: italic;
 }
@@ -140,9 +140,6 @@ nav ul li a{
  }
  .hero h2{
   font-size: 2.5rem;
- }
- .hero p{
-  font-size: 0.6rem;
  }
  .cards{
   align-itmes: center;
