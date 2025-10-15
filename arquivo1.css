@@ -136,7 +136,10 @@ nav ul li a{
 }
 @media(max-width: 600px){
  header h1{
-  font-size: 15px;
+  font-size: 3rem;
+ }
+ .hero h2{
+  font-size: 3rem;
  }
  .cards{
   align-itmes: center;
