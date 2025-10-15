@@ -136,28 +136,14 @@ nav ul li a{
  color: #777;
 }
 @media(max-width: 600px){
-header h1{
- font-size: 0.5rem;
-}
-nav ul li{
- display: inline;
-}
-nav ul a{
- font-size: 0.1rem;
-}
-.hero h2{
- font-size: 2.5rem;
- text-align: center;
- align-items: center;
-}
 .ul{
- position: relative;
- top: 
- right: 
- left:
- max-width: 
- transform:
- padding:
+ position: absolute;
+ top: 80px;
+ right: auto;
+ left: 50%;
+ max-width: 90%; 
+ transform: translatex(-50%);
+ padding: 2.5rem 3rem;
 }
 }
 
