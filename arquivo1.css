@@ -138,10 +138,6 @@ nav ul li a{
  header h1{
   font-size: 3rem;
  }
-header, footer, .menu, .social-icons{
- padding-left: 15px;
- padding-right: 15px;
-}
  .cards{
   align-itmes: center;
   justify-content: center;
