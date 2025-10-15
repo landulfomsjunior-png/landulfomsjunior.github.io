@@ -19,7 +19,7 @@ header{
 }
 header h1{
  color: #fff;
- font-size: 1.5rem;
+ font-size: 3rem;
  font-family: 'Quicksand', sans-serif;
  font-style: italic;
 }
@@ -135,6 +135,9 @@ nav ul li a{
  color: #777;
 }
 @media(max-width: 600px){
+ header h1{
+  font-size: 1.5rem;
+ }
  .hero h2{
   font-size: 2.5rem;
  }
@@ -142,10 +145,10 @@ nav ul li a{
   align-itmes: center;
   justify-content: center;
   display: flex;
-  flex-direction: column;
+  flex-direction: column;.
   gap: 15px;
  }
- .hero{
- padding: 
-}
+ .footer-links a{
+  margin: 0 6px;
+ }
 }
