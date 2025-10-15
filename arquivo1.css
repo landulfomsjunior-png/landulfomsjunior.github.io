@@ -147,6 +147,7 @@ header, footer, .menu, .social-icons{
  padding-right: 15px;
 }
  .cards{
+  text-align: center;
   display: flex;
   flex-direction: column;
   gap: 15px;
