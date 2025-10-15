@@ -19,7 +19,7 @@ header{
 }
 header h1{
  color: #fff;
- font-size: 3rem;
+ font-size: 1.5rem;
  font-family: 'Quicksand', sans-serif;
  font-style: italic;
 }
@@ -149,7 +149,7 @@ nav ul li a{
   gap: 15px;
  }
  .footer-container{
-  padding: 15px 10x;
+  padding: 15px 10x 5px;
  }
  .footer-links{
   display: flex;
