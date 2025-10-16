@@ -152,7 +152,16 @@ nav ul li a{
  nav ul li a{
   font-size: 0.5rem;
  }
- .cards{
+ .ul{
+ position: absolute;
+ top: 80px;
+ right: auto;
+ left: 50%;
+ max-width: 90%;
+ transform: translatex(-50%);
+ padding: 2.5rem 3rem;
+}
+.cards{
   align-itmes: center;
   justify-content: center;
   display: flex;
@@ -160,8 +169,7 @@ nav ul li a{
   gap: 15px;
  }
  .footer-container{
-  
- }
+  }
  .footer-links a{
   font-size: 11px;
  }
