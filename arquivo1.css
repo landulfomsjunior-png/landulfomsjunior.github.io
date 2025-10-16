@@ -153,6 +153,6 @@ nav ul li a{
  }
  .footer-links{
   display: flex;
-  nargin: 10px;
+  margin: 10px;
  }
 }
