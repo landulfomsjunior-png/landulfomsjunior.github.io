@@ -159,7 +159,7 @@ nav ul li a{
  left: 50%;
  max-width: 90%;
  transform: translatex(-50%);
- padding: 2.5rem 3rem;
+ padding:
 }
 .cards{
   align-itmes: center;
@@ -180,9 +180,9 @@ nav ul li a{
   font-size: 16px;
  }
  .footer-copy{
-  font-size: 9px;
+  font-size: 13px;
   }
  .nome{
-  font-size: 0.7px;
+  font-size: 0.8px;
  }
 }
