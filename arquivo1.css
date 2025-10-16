@@ -149,13 +149,13 @@ nav ul li a{
   gap: 15px;
  }
  .footer-container{
-  padding:
+  
  }
  .footer-links a{
   font-size: 11px;
  }
  .footer-social{
-  padding:
+  padding: 0.5rem 0.5rem;
  }
  .footer-social a{
   font-size: 16px;
@@ -165,6 +165,5 @@ nav ul li a{
   }
  .nome{
   font-size: 0.4px;
-  
  }
 }
