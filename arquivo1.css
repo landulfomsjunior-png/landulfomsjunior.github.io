@@ -148,15 +148,10 @@ nav ul li a{
   flex-direction: column;.
   gap: 15px;
  }
- .footer-container{
- }
- .footer-links{
-  display: flex;
- }
  .footer-links a{
-  font-size: 7.5px;
+  font-size: 10px;
  }
  .footer-social a{
-  font-size: 10px;
+  font-size: 15px;
  }
 }
