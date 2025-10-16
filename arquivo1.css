@@ -157,9 +157,7 @@ nav ul li a{
  top: 80px;
  right: auto;
  left: 50%;
- max-width: 90%;
  transform: translatex(-50%);
- padding:
 }
 .cards{
   align-itmes: center;
