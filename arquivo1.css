@@ -141,6 +141,12 @@ nav ul li a{
  .hero h2{
   font-size: 2.5rem;
  }
+ nav ul li{
+  display: inline;
+ }
+ nav ul li a{
+  font-size: 0.5rem;
+ }
  .cards{
   align-itmes: center;
   justify-content: center;
