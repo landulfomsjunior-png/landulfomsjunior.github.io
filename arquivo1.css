@@ -134,7 +134,7 @@ nav ul li a{
  font-size: 0.8rem;
  color: #777;
 }
-@media(max-width: 600px){
+@media(max-width: 650px){
  header{
   justify-content: space-between;
   display: flex;
