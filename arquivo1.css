@@ -136,7 +136,7 @@ nav ul li a{
 }
 @media(max-width: 600px){
  header{
-  padding: 2.5rem 2.5rem;
+  padding: 2rem 2rem;
  }
  header h1{
   font-size: 1rem;
@@ -148,7 +148,7 @@ nav ul li a{
   display: inline;
  }
  nav ul li a{
-  font-size: 0.5rem;
+  font-size: 0.8rem;
  }
  .cards{
   align-itmes: center;
@@ -170,9 +170,9 @@ nav ul li a{
   font-size: 16px;
  }
  .footer-copy{
-  font-size: 6.5px;
+  font-size: 7.5px;
   }
  .nome{
-  font-size: 0.4px;
+  font-size: 0.6px;
  }
 }
