@@ -154,4 +154,7 @@ nav ul li a{
  .footer-links{
   display: flex;
  }
+ footer-links a{
+  font-size: 7.5px;
+ }
 }
