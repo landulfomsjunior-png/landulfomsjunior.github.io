@@ -152,11 +152,6 @@ nav ul li a{
  nav ul li a{
   font-size: 0.5rem;
  }
- .ul{
- position: absolute;
- top: 80px;
- transform: translatex(-50%);
-}
 .cards{
   align-itmes: center;
   justify-content: center;
