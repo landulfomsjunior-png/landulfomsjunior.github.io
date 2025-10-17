@@ -158,6 +158,9 @@ nav ul li a{
 .hero .btn{
  font-size: 12px;
 }
+ .card h3{
+  font-size: 1rem;
+ }
 .card p{
  font-size: 0.8rem;
 }
