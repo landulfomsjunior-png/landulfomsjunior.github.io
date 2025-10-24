@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 Sitemap:
-https://landulfomsjunior.github.io/sitemap.xml
+https://landulfomsjunior-png.github.io/landulfomsjunior.github.io/sitemap.xml
