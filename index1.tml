@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Referências | Landulfo Junior</title>
+  <link rel="stylesheet" href="arquivo.css">
+ </head>
+<body>
+ <main class="container">
+ <h1>Publicados Recentemente</h1>
+ <nav>
+ <ol>
+ <li><a href="index1.html">Quem de fato foi Jesus Cristo?</a></li>
+ </ol>
+ </nav>
+ </main>
+</body>
+</hmtl>
